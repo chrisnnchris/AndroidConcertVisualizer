@@ -1,0 +1,9 @@
+colors:
+white
+silver
+green
+blue
+violet
+red
+orange
+yellow
